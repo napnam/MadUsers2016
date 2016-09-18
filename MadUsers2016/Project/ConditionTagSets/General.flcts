@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="Audience A"
+    BackgroundColor="#90ee90" />
+  <ConditionTag
+    Comment=""
+    Name="Audience B"
+    BackgroundColor="Red" />
+</CatapultConditionTagSet>
