@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
-    Name="CompanyName">My Company Name, LLC</Variable>
+    Name="CompanyName"
+    EvaluatedDefinition="napnam and Write2Users">napnam and Write2Users</Variable>
   <Variable
     Comment=""
     Name="PhoneNumber">858 123 4567</Variable>
@@ -14,15 +15,16 @@
   <Variable
     Name="ProductName"
     Comment=""
-    OriginalName="ProductName">FictionSoft</Variable>
+    OriginalName="ProductName"
+    EvaluatedDefinition="CSS Advanced Workshop">CSS Advanced Workshop</Variable>
   <Variable
     Name="Fax"
     Comment=""
     OriginalName="Fax">Fax 123-987-654</Variable>
   <Variable
     Name="CityStateZip"
-    Comment=""
-    Definition="Some text">La Jolla, CA 92037</Variable>
+    Definition="Some text"
+    EvaluatedDefinition="Denmark">Denmark</Variable>
   <Variable
     Name="Year"
     Comment=""
