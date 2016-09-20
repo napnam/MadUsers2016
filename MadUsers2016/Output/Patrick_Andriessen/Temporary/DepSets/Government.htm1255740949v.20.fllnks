@@ -4,8 +4,14 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="Content/B_Feature Topics/Languages.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/B_Feature Topics/Languages.htm" />
+  </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />

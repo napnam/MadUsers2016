@@ -488,6 +488,27 @@ div.MCBreadcrumbsBox_0
 	margin-bottom: 10px;
 }
 
+.xref
+{
+	background: #3498db;
+	background-image: url('-webkit-linear-gradient(top, #3498db, #2980b9)');
+	-webkit-border-radius: 28;
+	-moz-border-radius: 28;
+	border-radius: 28px;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+}
+
+.xref:hover
+{
+	background: #3cb0fd;
+	background-image: url('-webkit-linear-gradient(top, #3cb0fd, #3498db)');
+	text-decoration: none;
+}
+
 .MCWebHelpFramesetLink a
 {
 	
