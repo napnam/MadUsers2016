@@ -3,7 +3,7 @@ slidenumbers: false
 autoscale: true
 
 # [fit] MadUsers 2016
-## [fit] Venture outside of the CSS comfort zone
+## [fit] Venture outside of your *CSS* comfort zone
 
 ---
 
@@ -13,8 +13,7 @@ autoscale: true
 ---
 
 # [fit] Today 
-we are going to be manipulating the stylesheet of a MadCap Flare project,
-but we are __not going to use__[^1] Flare to do it. 
+We are going to be manipulating the stylesheet of a MadCap Flare project, but we are *__not__* going to use Flare[^1] to do it. 
 
 [^1]: Actually we are going to use Flare, but only to build our target.
 
@@ -27,8 +26,18 @@ After this little expedition outside of your CSS comfort zone, you will feel lik
 ![fit](http://i.giphy.com/12UlfHpF05ielO.gif)
 
 ---
+# [fit] What do you need?
+---
 
-^This slide is about changing the x-ref styles outside of the stylesheet editor.
+##What do you need?
+
+* A laptop with Flare 12 installed and running
+* A text editor 
+(notesblok or notepad will do for now[^2])
+
+[^2]: A more advanced text editor is recommended, especialliy one that supports syntax highlighting
+
+---
 
 ## The X-Ref
 In Flare we use the x-ref for linking to other content in- and outside of the Flare project.
@@ -42,9 +51,10 @@ PICTURE HERE
 ---
 
 ## The X-Ref (default styling in css file)
-```css
-
+```
 MadCap|xref
+```
+```css
  {
  	color: #2D8DCC;
  	font-weight: bold;
@@ -56,8 +66,10 @@ MadCap|xref
 ---
 
 ## The X-Ref (fancy styling)
-```css
+```
 MadCap|xref
+```
+```css
 {
 	background: #3498db;
 	background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
@@ -110,8 +122,8 @@ Ready to start tinkering? Here are some great places to start!
 
 ---
 
-# [fit] Join __us!__
-You can find us on: 
+# [fit] Join __me!__
+You can find me on: 
 
 __[GitHub](https://github.com/napnam/MadUsers2016)__ and __[Slack](https://madusers.slack.com)__.
 
