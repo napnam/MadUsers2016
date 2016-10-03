@@ -123,9 +123,9 @@ Ready to start tinkering? Here are some great places to start!
 ---
 
 # [fit] Join __me!__
-You can find me on: 
+My name is *Patrick Andriessen* and you can find me on: 
 
-__[GitHub](https://github.com/napnam/MadUsers2016)__ and __[Slack](https://madusers.slack.com)__.
+__[Twitter](https://twitter.com/napnamPat)__, __[GitHub](https://github.com/napnam/MadUsers2016)__ *and* __[Slack](https://madusers.slack.com)__.
 
 ---
 
