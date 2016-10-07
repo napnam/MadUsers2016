@@ -38,6 +38,15 @@ After this little expedition outside of your CSS comfort zone, you will feel lik
 [^2]: A more advanced text editor is recommended, especialliy one that supports syntax highlighting
 
 ---
+nieuwe slide
+
+---
+=======
+![fit](example.png)
+
+---
+
+^This slide is about changing the x-ref styles outside of the stylesheet editor.
 
 ## The X-Ref
 In Flare we use the x-ref for linking to other content in- and outside of the Flare project.
