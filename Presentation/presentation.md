@@ -3,7 +3,7 @@ slidenumbers: false
 autoscale: true
 
 # [fit] MadUsers 2016
-## [fit] Venture outside of your *CSS* comfort zone
+## [fit] Venture outside of the *CSS* comfort zone
 
 ---
 
