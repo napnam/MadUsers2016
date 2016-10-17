@@ -1,9 +1,13 @@
-footer: [_@napnamPat_](https://twitter.com/napnamPat) | [www.napnam.nl](http://www.napnam.nl)
 slidenumbers: false
 autoscale: true
 
 # [fit] MadUsers 2016
 ## [fit] Venture outside of the *CSS* comfort zone
+
+Patrick Andriessen
+napnam Publishing & Consulting
+
+![right](_assets/MadUsers_txt.png)
 
 ---
 
@@ -11,7 +15,14 @@ autoscale: true
 # [fit] How are you doing?
 
 ---
+# Who am I? Here is some trivia
+My name is Patrick 
 
+I'm from the Netherlands
+
+I am a freelance consultant
+
+---
 # [fit] Today 
 We are going to be manipulating the stylesheet of a MadCap Flare project, but we are *__not__* going to use Flare[^1] to do it. 
 
@@ -19,6 +30,21 @@ We are going to be manipulating the stylesheet of a MadCap Flare project, but we
 
 ---
 
+# So what are we going to use?
+Well, we are going to use a text editor to mmanipulate Flare styles.
+
+---
+For the love of *[insert favorite deity]*
+# [fit] Why!?
+---
+There are a couple of reasons why you would like to use a external editor...
+
+1. It is fast
+2. You learn a lot about CSS and HTML by looking at the code
+3. You can do stuff, you can't do in the Flare editor
+4. Did I mention it is fast?
+
+---
 After this little expedition outside of your CSS comfort zone, you will feel like...
 
 ---
@@ -31,14 +57,11 @@ After this little expedition outside of your CSS comfort zone, you will feel lik
 
 ##What do you need?
 
-* A laptop with Flare 12 installed and running
+* A laptop with Flare installed and running (pref. v12)
 * A text editor 
 (notesblok or notepad will do for now[^2])
 
-[^2]: A more advanced text editor is recommended, especialliy one that supports syntax highlighting
-
----
-nieuwe slide
+[^2]: I like to use a more advanced editor, especialliy one that supports syntax highlighting
 
 ---
 =======
@@ -58,13 +81,17 @@ In Flare we use the x-ref for linking to other content in- and outside of the Fl
 PICTURE HERE
 
 ---
+## Where is the css code located?
+The CSS 
+
+---
 
 ## The X-Ref (default styling in css file)
 ```
 MadCap|xref
 ```
 ```css
- {
+ {	
  	color: #2D8DCC;
  	font-weight: bold;
  	mc-format: '{para}';
@@ -97,6 +124,11 @@ MadCap|xref
 	mc-format: '{para}';
 }
 ```
+---
+## Exercise 1 - Modify the CSS for a X-ref
+### Prep
+* Step 1 - Open the *Basic Steps.htm* topic
+* Step 2 - Create a X-ref to the *Feature1.htm* topic
 
 ---
 
@@ -141,3 +173,14 @@ __[Twitter](https://twitter.com/napnamPat)__, __[GitHub](https://github.com/napn
 # [fit] __Tak!__
 # [fit] Thank you!
 # [fit] Dank jullie wel!
+
+---
+# [fit] Contact information
+
+Patrick Andriessen
+napnam Publishing & Consulting
+
+www.napnam.nl
+patrick@napnam.nl
+@napnamPat
+
