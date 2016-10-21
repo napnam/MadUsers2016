@@ -148,18 +148,30 @@ Ready to start tinkering? Here are some great places to start!
 ---
 
 ## Text editors
-* [Sublime Text 3](https://www.sublimetext.com/) - win & mac (paid)
-* [Notepad++](https://notepad-plus-plus.org/) - win (free)
-* [Atom](https://atom.io/) - win & mac (free)
+[*Sublime Text 3*](https://www.sublimetext.com/) - win & mac (paid)
+https://www.sublimetext.com/
+
+[*Notepad++*](https://notepad-plus-plus.org/) - win (free)
+https://notepad-plus-plus.org/
+
+[*Atom*](https://atom.io/) - win & mac (free)
+https://atom.io/
 
 ---
 
 ## Learn more about CSS
 
-* [CSS: The Definitive Guide, Fourth Edition](http://meyerweb.com/eric/thoughts/2012/10/01/csstdg4e/) (book)
-* [CSS: The Missing Manual by David Sawyer McFarland](https://amzn.com/1491918055) (book)
-* [Learn to Code HTML & CSS, created by designer & front-end developer Shay Howe](http://learn.shayhowe.com/html-css/) (course)
-* [Advanced CSS: Best Practices for Formatting Notes, Tips, Cautions and Warnings in MadCap Flare" webinar](http://www.madcapsoftware.com/demos/player.aspx?v=d01db2694e8e6) (webinar)
+[*CSS: The Definitive Guide, Fourth Edition*](http://meyerweb.com/eric/thoughts/2012/10/01/csstdg4e/) (book)
+http://meyerweb.com/eric/thoughts/2012/10/01/csstdg4e/
+
+[*CSS: The Missing Manual by David Sawyer McFarland*](https://amzn.com/1491918055) (book)
+https://amzn.com/1491918055
+
+[*Learn to Code HTML & CSS, created by designer & front-end developer Shay Howe*](http://learn.shayhowe.com/html-css/) (course)
+http://learn.shayhowe.com/html-css/
+
+[*Advanced CSS: Best Practices for Formatting Notes, Tips, Cautions and Warnings in MadCap Flare" webinar*](http://www.madcapsoftware.com/demos/player.aspx?v=d01db2694e8e6) (webinar)
+http://www.madcapsoftware.com/demos/player.aspx?v=d01db2694e8e6
 
 ---
 
