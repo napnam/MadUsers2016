@@ -1,5 +1,7 @@
 slidenumbers: false
 autoscale: true
+build-lists: true
+^ My name is Patrick. I'm from the Netherlands. I am technical information consultant. This is my first public speaking gig in quite some time. And I'm not nervous. At all.
 
 # [fit] MadUsers 2016
 ## [fit] Venture outside of the *CSS* comfort zone
@@ -7,82 +9,82 @@ autoscale: true
 Patrick Andriessen
 napnam Publishing & Consulting
 
+*Helsingør, Denmark*
+*November 2, 2016*
+
+@napnamPat 
+www.napnam.nl/madusers2016
+
 ![right](_assets/MadUsers_txt.png)
 
 ---
 
-# [fit] Hello! 
-# [fit] How are you doing?
-
----
-# Who am I? Here is some trivia
-My name is Patrick 
-
-I'm from the Netherlands
-
-I am a freelance consultant
-
----
 # [fit] Today 
-We are going to be manipulating the stylesheet of a MadCap Flare project, but we are *__not__* going to use Flare[^1] to do it. 
+^ We still need Flare, but only to edit our topics and build our target to see the result of our work.
 
-[^1]: Actually we are going to use Flare, but only to build our target.
+We are going to work on the MadCap Flare project styles, but we are *__not__* going to use Flare to do it. 
 
 ---
 
-# So what are we going to use?
-Well, we are going to use a text editor to mmanipulate Flare styles.
+# [fit] Workshop agenda
+
+1. Some background information
+2. Exercise: The X-ref
+3. Exercise: Tables
+4. Exercise: The Dropdown
+5. Evaluation
+
+---
+
+# So what are we going to use in stead of Flare?
+Well, we are going to use a text editor to work on Flare styles.
 
 ---
 For the love of *[insert favorite deity]*
 # [fit] Why!?
----
-There are a couple of reasons why you would like to use a external editor...
 
-1. It is fast
+---
+
+There are a couple of reasons why you would like to use a text editor...
+
+1. It is fast (when you get used to it)
 2. You learn a lot about CSS and HTML by looking at the code
-3. You can do stuff, you can't do in the Flare editor
+3. You can do some pretty cool stuff, you can't do with the Flare editor
 4. Did I mention it is fast?
 
 ---
-After this little expedition outside of your CSS comfort zone, you will feel like...
+
+And after this little expedition outside of your CSS comfort zone, you might feel like...
+
+![right](http://i.giphy.com/12UlfHpF05ielO.gif)
 
 ---
 
-![fit](http://i.giphy.com/12UlfHpF05ielO.gif)
-
----
 # [fit] What do you need?
----
+<br>
 
-##What do you need?
+* A laptop with Flare installed and running (pref. v12 or v11)
+* A text editor (notesblok / notepad will do)
 
-* A laptop with Flare installed and running (pref. v12)
-* A text editor 
-(notesblok or notepad will do for now[^2])
-
-[^2]: I like to use a more advanced editor, especialliy one that supports syntax highlighting
-
----
-=======
-![fit](example.png)
+^ I like to use a more advanced editor, especialliy one that supports syntax highlighting.	
 
 ---
 
 ^This slide is about changing the x-ref styles outside of the stylesheet editor.
 
-## The X-Ref
+## Exercise 1: The X-Ref
 In Flare we use the x-ref for linking to other content in- and outside of the Flare project.
 
 ---
 
 ## The X-Ref (default styling in style editor)
 
-PICTURE HERE
+![inline fill 75%](_assets/MainStyles_LinkStyles.png)
 
 ---
 ## Where is the css code located?
-The CSS 
+
+![inline fill 90%](_assets/LocationStyles.png)
 
 ---
 
@@ -127,8 +129,9 @@ MadCap|xref
 ---
 ## Exercise 1 - Modify the CSS for a X-ref
 ### Prep
-* Step 1 - Open the *Basic Steps.htm* topic
-* Step 2 - Create a X-ref to the *Feature1.htm* topic
+1. Open the *Basic Steps.htm* topic
+2. Create a X-ref to the *Feature1.htm* topic
+3. Open the main stylessheet
 
 ---
 
@@ -142,20 +145,29 @@ To present data there is nothing like a fine table.
 
 ---
 
+# Evaluation
+
+<br>
+1. Would you consider using a text editor for your own projects in the future?
+2. Why would you use or not use a text editor for your own projects?
+
+
+---
+
 # [fit] Resources
 Ready to start tinkering? Here are some great places to start!
 
 ---
 
-## Text editors
+## Recommended text editors
 [*Sublime Text 3*](https://www.sublimetext.com/) - win & mac (paid)
 https://www.sublimetext.com/
 
-[*Notepad++*](https://notepad-plus-plus.org/) - win (free)
-https://notepad-plus-plus.org/
-
 [*Atom*](https://atom.io/) - win & mac (free)
 https://atom.io/
+
+[*Notepad++*](https://notepad-plus-plus.org/) - win (free)
+https://notepad-plus-plus.org/
 
 ---
 
@@ -178,7 +190,15 @@ http://www.madcapsoftware.com/demos/player.aspx?v=d01db2694e8e6
 # [fit] Join __me!__
 My name is *Patrick Andriessen* and you can find me on: 
 
-__[Twitter](https://twitter.com/napnamPat)__, __[GitHub](https://github.com/napnam/MadUsers2016)__ *and* __[Slack](https://madusers.slack.com)__.
+* [Twitter as @napnamPat](https://twitter.com/napnamPat)
+* [GitHub - https://github.com/napnam/MadUsers2016](https://github.com/napnam/MadUsers2016)
+* [Slack - https://madusers.slack.com](https://madusers.slack.com)
+
+
+The slidedeck and materials used in this workshop are available for download. 
+Just go to:
+
+_[http://www.napnam.nl/madusers2016](http://www.napnam.nl/madusers2016)_
 
 ---
 
@@ -187,12 +207,20 @@ __[Twitter](https://twitter.com/napnamPat)__, __[GitHub](https://github.com/napn
 # [fit] Dank jullie wel!
 
 ---
-# [fit] Contact information
+# [fit] MadUsers 2016
+## [fit] Venture outside of the *CSS* comfort zone
 
-Patrick Andriessen
-napnam Publishing & Consulting
+__Patrick Andriessen__
+*napnam Publishing & Consulting*	
 
-www.napnam.nl
-patrick@napnam.nl
 @napnamPat
+patrick@napnam.nl
+
+www.napnam.nl/madusers2016
+
+![right](_assets/MadUsers_txt.png)
+
+
+
+
 
