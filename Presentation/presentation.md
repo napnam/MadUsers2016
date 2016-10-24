@@ -26,12 +26,12 @@ We are going to work on the MadCap Flare project styles, but we are *__not__* go
 
 ---
 
-# [fit] Workshop agenda
+# Workshop agenda
 
 1. Some background information
-2. Exercise: The X-ref
-3. Exercise: Tables
-4. Exercise: The Dropdown
+2. Exercise: __The X-ref__
+3. Exercise: __Tables__
+4. Exercise: __The Dropdown__
 5. Evaluation
 
 ---
