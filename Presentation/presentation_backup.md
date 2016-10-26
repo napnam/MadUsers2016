@@ -19,16 +19,16 @@ www.napnam.nl/madusers2016
 ---
 
 # What are we going to do today?
-* We'll be styling various elements in a MadCap Flare project. 
+* We'll be working on some styles in a MadCap Flare project. 
 * We'll be using a text editor instead of Flare.
-* This means that we'll be working on the code directly.
+* We'll be working directly on the code.
 
 ---
 
-# What's in it for you?
+# Why work on the CSS code directly?
 
-1. With practice it is lightning fast (compared to Flare).
-2. You learn a lot about CSS.
+1. It can be really fast.
+2. You can learn a lot about CSS (and HTML).
 3. You can do more fancy stuff.
 
 ---
@@ -42,19 +42,38 @@ www.napnam.nl/madusers2016
 5. Wrap up
 
 ---
-A little bit of
+
 # [fit] background information
 
 ---
-## Where is the css code located?
 
-![inline fill 90%](_assets/LocationStyles.png)
+# Time for some
+# [fit] Exercises
+
+---
+# What do we need?
+
+* Laptop with Flare installed (pref. v12 or v11)
+* HTML5 Top Navigation example project
+* Text editor (notesblok / notepad will do)
+
+---
+
+^This slide is about changing the x-ref styles outside of the stylesheet editor.
+
+## Exercise 1: The X-Ref
+In Flare we use the x-ref for linking to other content in- and outside of the Flare project.
 
 ---
 
 ## The X-Ref (default styling in style editor)
 
 ![inline fill 75%](_assets/MainStyles_LinkStyles.png)
+
+---
+## Where is the css code located?
+
+![inline fill 90%](_assets/LocationStyles.png)
 
 ---
 
@@ -97,32 +116,21 @@ MadCap|xref
 }
 ```
 ---
-
-# Time for some
-# [fit] Exercises
-
----
-# What do we need?
-
-* Laptop with Flare installed (pref. v12 or v11)
-* HTML5 Top Navigation example project
-* Text editor (notesblok / notepad will do)
+## Exercise 1 - Modify the CSS for a X-ref
+### Prep
+1. Open the *Basic Steps.htm* topic
+2. Create a X-ref to the *Feature1.htm* topic
+3. Open the main stylessheet
 
 ---
 
-^This slide is about changing the x-ref styles outside of the stylesheet editor.
-
-## [fit] Exercise 1
-## [fit] The cross-reference
+## The Drop-down
+In Flare we can use drop-downs to make content appear at the click of a buttom (or thumb).
 
 ---
 
-## [fit] Exercise 2
-## [fit] The drop-down
-
----
-
-# [fit] About tables
+## Tables
+To present data there is nothing like a fine table.
 
 ---
 

@@ -1,64 +1,58 @@
-slidenumbers: false
-autoscale: true
-build-lists: true
+^ My name is Patrick. I'm from the Netherlands. I am technical information consultant. This is my first public speaking gig in quite some time. And I'm not nervous. At all.
 
-# [fit] MadUsers 2016
-## [fit] Venture outside of the *CSS* comfort zone
 
-Patrick Andriessen
-napnam Publishing & Consulting
+# Today 
+We are going to work on the MadCap Flare project styles, but we are *__not__* going to use Flare to do it. 
 
-*Helsingør, Denmark*
-*November 2, 2016*
-
-@napnamPat 
-www.napnam.nl/madusers2016
-
-![right](_assets/MadUsers_txt.png)
-
----
-
-# What are we going to do today?
-* We'll be styling various elements in a MadCap Flare project. 
-* We'll be using a text editor instead of Flare.
-* This means that we'll be working on the code directly.
-
----
-
-# What's in it for you?
-
-1. With practice it is lightning fast (compared to Flare).
-2. You learn a lot about CSS.
-3. You can do more fancy stuff.
-
----
+We still need Flare, but only to edit our topics and build our target to see the result of our work.
 
 # Workshop agenda
 
 1. Some background information
 2. Exercise: __The X-ref__
-3. Exercise: __The Dropdown__
-4. Exercise: __Tables__
-5. Wrap up
+3. Exercise: __Tables__
+4. Exercise: __The Dropdown__
+5. Evaluation
 
+# So what are we going to use in stead of Flare?
+Well, we are going to use a text editor to work on Flare styles.
+
+"For the love of *[insert favorite deity]*"
+*Why!?*
+
+# Reasons
+There are a couple of reasons why you would like to use a text editor...
+
+1. It is fast (when you get used to it)
+2. You learn a lot about CSS and HTML by looking at the code
+3. You can do some pretty cool stuff, you can't do with the Flare editor
+4. Did I mention it is fast?
+
+And after this little expedition outside of your CSS comfort zone, you might feel like...
+
+![right](http://i.giphy.com/12UlfHpF05ielO.gif)
+
+# What do we need?
+
+* A laptop with Flare installed and running (pref. v12 or v11)
+* A text editor (notesblok / notepad will do)
+
+I like to use a more advanced editor, especialliy one that supports syntax highlighting.	
 ---
-A little bit of
-# [fit] background information
+# Exercises 
 
----
-## Where is the css code located?
+## Exercise 1: The X-Ref
+In Flare we use the x-ref for linking to other content in- and outside of the Flare project.
 
-![inline fill 90%](_assets/LocationStyles.png)
-
----
-
-## The X-Ref (default styling in style editor)
+### The X-Ref (default styling in style editor)
 
 ![inline fill 75%](_assets/MainStyles_LinkStyles.png)
 
----
+### Where is the css code located?
 
-## The X-Ref (default styling in css file)
+![inline fill 90%](_assets/LocationStyles.png)
+
+### The X-Ref (default styling in css file)
 ```
 MadCap|xref
 ```
@@ -73,7 +67,7 @@ MadCap|xref
 ```
 ---
 
-## The X-Ref (fancy styling)
+### The X-Ref (fancy styling)
 ```
 MadCap|xref
 ```
@@ -97,56 +91,35 @@ MadCap|xref
 }
 ```
 ---
-
-# Time for some
-# [fit] Exercises
-
----
-# What do we need?
-
-* Laptop with Flare installed (pref. v12 or v11)
-* HTML5 Top Navigation example project
-* Text editor (notesblok / notepad will do)
+## Exercise 1 - Modify the CSS for a X-ref
+### Prep
+1. Open the *Basic Steps.htm* topic
+2. Create a X-ref to the *Feature1.htm* topic
+3. Open the main stylessheet
 
 ---
 
-^This slide is about changing the x-ref styles outside of the stylesheet editor.
-
-## [fit] Exercise 1
-## [fit] The cross-reference
+## The Drop-down
+In Flare we can use drop-downs to make content appear at the click of a buttom (or thumb).
 
 ---
 
-## [fit] Exercise 2
-## [fit] The drop-down
+## Tables
+To present data there is nothing like a fine table.
 
 ---
 
-# [fit] About tables
+# Evaluation
+
+<br>
+1. Would you consider using a text editor for your own projects in the future?
+2. Why would you use or not use a text editor for your own projects?
+
 
 ---
 
-# Wrap up
-
----
-## So, how was it?
-
-Did it make you feel like...
-
-![right](_assets/Peanuts.gif)
-
----
-
-...or did it make you feel like...
-
-![right](_assets/CharlieBrown.gif)
-
----
-## A question
-
-Would you consider using a text editor for your own projects in the future and why (or why not)?
-
-
+# [fit] Resources
+Ready to start tinkering? Here are some great places to start!
 
 ---
 
@@ -186,7 +159,7 @@ My name is *Patrick Andriessen* and you can find me on:
 * [Slack - https://madusers.slack.com](https://madusers.slack.com)
 
 
-The slidedeck and all materials used in this workshop are available for you to download. 
+The slidedeck and materials used in this workshop are available for download. 
 Just go to:
 
 _[http://www.napnam.nl/madusers2016](http://www.napnam.nl/madusers2016)_

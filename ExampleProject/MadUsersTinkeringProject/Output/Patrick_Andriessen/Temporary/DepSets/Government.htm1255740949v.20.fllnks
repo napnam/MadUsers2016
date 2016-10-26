@@ -1,21 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
-  FileSearchable="true"
+  FileSearchable="false"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links>
-    <Link
-      Url="Content/B_Feature Topics/Feature3.htm" />
-    <Link
-      Url="Content/B_Feature Topics/Feature2.htm" />
-  </Links>
-  <LongLinks>
-    <Link
-      Url="Content/B_Feature Topics/Feature3.htm" />
-    <Link
-      Url="Content/B_Feature Topics/Feature2.htm" />
-  </LongLinks>
+  <Links />
+  <LongLinks />
   <Anchors />
   <Keywords />
   <Concepts />

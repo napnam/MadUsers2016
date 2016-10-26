@@ -77,20 +77,6 @@ MadCap|breadcrumbsProxy
 
 MadCap|xref
 {
-	color: #2D8DCC;
-	font-weight: bold;
-	mc-format: '{para}';
-	text-decoration: underline;
-}
-
-MadCap|xref:hover
-{
-	color: #BED230;
-}
-
-
-MadCap|xref.alt
-{
  background: #cd171a;
   background-image: -webkit-linear-gradient(top, #cd171a, #cc6e70);
   background-image: -moz-linear-gradient(top, #cd171a, #cc6e70);
@@ -110,7 +96,7 @@ MadCap|xref.alt
   text-decoration: none;
 }
 
-MadCap|xref:hover.alt
+MadCap|xref:hover
 {
   background: #36475a;
   background-image: -webkit-linear-gradient(top, #36475a, #868f98);

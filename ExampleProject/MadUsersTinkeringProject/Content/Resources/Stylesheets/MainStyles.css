@@ -87,6 +87,37 @@ MadCap|xref:hover
 	color: #BED230;
 }
 
+MadCap|xref.alt
+{
+	background: #cd171a;
+	background-image: -webkit-linear-gradient(top, #cd171a, #cc6e70);
+	background-image: -moz-linear-gradient(top, #cd171a, #cc6e70);
+	background-image: -ms-linear-gradient(top, #cd171a, #cc6e70);
+	background-image: -o-linear-gradient(top, #cd171a, #cc6e70);
+	-webkit-border-radius: 28;
+	-moz-border-radius: 28;
+	border-radius: 28px;
+	text-shadow: 1px 1px 3px #666666;
+	-webkit-box-shadow: 0px 1px 3px #666666;
+	-moz-box-shadow: 0px 1px 3px #666666;
+	box-shadow: 0px 1px 3px #666666;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+}
+
+MadCap|xref.alt:hover
+{
+	background: #36475a;
+	background-image: -webkit-linear-gradient(top, #36475a, #868f98);
+	background-image: -moz-linear-gradient(top, #36475a, #868f98);
+	background-image: -ms-linear-gradient(top, #36475a, #868f98);
+	background-image: -o-linear-gradient(top, #36475a, #868f98);
+	text-decoration: none;
+}
+
 p
 {
 	margin-bottom: 8px;
@@ -105,3 +136,25 @@ html.templateTopic div.sideContent
 {
 	display: none;
 }
+
+MadCap|dropDownHotspot
+{
+	color: #000000;
+}
+
+MadCap|dropDownBody
+{
+	color: #000000;
+	border: 1px solid #000;
+}
+
+MadCap|dropDown
+{
+	color: #000000;
+}
+
+MadCap|dropDownHead
+{
+	color: #000000;
+}
+
