@@ -2,19 +2,22 @@ slidenumbers: false
 autoscale: true
 build-lists: true
 
-# [fit] MadUsers 2016
+## [fit] MadUsers 2016
 ## [fit] Venture outside of the *CSS* comfort zone
 
-Patrick Andriessen
-napnam Publishing & Consulting
+__Patrick Andriessen__
+*napnam Publishing & Consulting*	
 
-*Helsingør, Denmark*
-*November 2, 2016*
+@napnamPat
+patrick@napnam.nl
 
-@napnamPat 
 www.napnam.nl/madusers2016
 
 ![right](_assets/MadUsers_txt.png)
+
+---
+
+# [fit] __Welcome__
 
 ---
 
@@ -27,28 +30,55 @@ www.napnam.nl/madusers2016
 
 # What's in it for you?
 
-1. With practice it is lightning fast (compared to Flare).
-2. You learn a lot about CSS.
-3. You can do more fancy stuff.
+1. With practice it is *lightning fast*.
+2. You *learn* a lot about CSS.
+3. You'll have *full control* over the CSS, so 
+4. you can do more __fancy stuff__.
 
 ---
 
 # Workshop agenda
 
-1. Some background information
-2. Exercise: __The X-ref__
-3. Exercise: __The Dropdown__
-4. Exercise: __Tables__
-5. Wrap up
+1. MadCap Flare vs. Text Editor
+2. Exercise: __The Cross Reference__
+3. Exercise: __The Drop Down__
+4. Exercise / demo: __Tables__
+3. Wrap up
 
 ---
-A little bit of
-# [fit] background information
+
+## [fit] MadCap Flare
+vs. 
+## [fit] Text Editor
 
 ---
-## Where is the css code located?
 
-![inline fill 90%](_assets/LocationStyles.png)
+# Question
+## What do *you* use now?
+
+---
+
+Do you use the Flare Editor "Simple View?
+
+![inline fill 75%](_assets/EditorFlareSimple.png)
+
+---
+
+Do you use the Flare Editor "Advanced View?
+
+![inline fill 75%](_assets/EditorFlareAdvanced.png)
+
+---
+
+Do you use the Flare Internal Text Editor?
+
+![inline fill 75%](_assets/EditorFlareText.png)
+
+---
+
+Or...do you use an external text editor?
+
+![inline fill 75%](_assets/EditorSublime.png)
 
 ---
 
@@ -59,6 +89,9 @@ A little bit of
 ---
 
 ## The X-Ref (default styling in css file)
+
+![right 100%](_assets/BasicXref.png)
+
 ```
 MadCap|xref
 ```
@@ -71,46 +104,71 @@ MadCap|xref
  }
 
 ```
+
+
 ---
 
-## The X-Ref (fancy styling)
+## But wait...
+
+![inline fill 100%](_assets/ThisIn2This.png)
+
+---
+
+## The X-Ref (button styling)
 ```
 MadCap|xref
 ```
 ```css
 {
-	background: #3498db;
-	background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-	background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-	background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-	background-image: -o-linear-gradient(top, #3498db, #2980b9);
-	background-image: linear-gradient(to bottom, #3498db, #2980b9);
-	-webkit-border-radius: 28;
-	-moz-border-radius: 28;
-	border-radius: 28px;
-	font-family: Arial;
-	color: #ffffff;
-	font-size: 20px;
-	padding: 10px 20px 10px 20px;
-	text-decoration: none;
-	mc-format: '{para}';
+background: #cd171a;
+  background-image: -webkit-linear-gradient(top, #cd171a, #cc6e70);
+  background-image: -moz-linear-gradient(top, #cd171a, #cc6e70);
+  background-image: -ms-linear-gradient(top, #cd171a, #cc6e70);
+  background-image: -o-linear-gradient(top, #cd171a, #cc6e70);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  mc-format: '{para}';
+  text-decoration: none;
 }
 ```
 ---
+
+
 
 # Time for some
 # [fit] Exercises
 
 ---
+
 # What do we need?
 
-* Laptop with Flare installed (pref. v12 or v11)
-* HTML5 Top Navigation example project
-* Text editor (notesblok / notepad will do)
+* Laptop with Flare installed (pref. v11 or up).
+* HTML5 Top Navigation example project.
+* Your text editor of choice.
 
 ---
 
-^This slide is about changing the x-ref styles outside of the stylesheet editor.
+# Before you begin
+
+* Always make your changes in the project file not in the build!
+* Backup your CSS before you start!
+
+---
+
+## Where is the css code located?
+
+![inline fill 90%](_assets/LocationStyles.png)
+
+---
 
 ## [fit] Exercise 1
 ## [fit] The cross-reference
@@ -131,21 +189,23 @@ MadCap|xref
 ---
 ## So, how was it?
 
-Did it make you feel like...
+Do you feel like cheering?
 
 ![right](_assets/Peanuts.gif)
 
 ---
 
-...or did it make you feel like...
+Or do you feel like Charlie Brown?
 
 ![right](_assets/CharlieBrown.gif)
 
 ---
-## A question
 
-Would you consider using a text editor for your own projects in the future and why (or why not)?
+I would like to know, so here is a
 
+## *question* for you
+
+After this Would you consider using a text editor for your own projects in the future and why (or why not)?
 
 
 ---
@@ -178,21 +238,6 @@ http://www.madcapsoftware.com/demos/player.aspx?v=d01db2694e8e6
 
 ---
 
-# [fit] Join __me!__
-My name is *Patrick Andriessen* and you can find me on: 
-
-* [Twitter as @napnamPat](https://twitter.com/napnamPat)
-* [GitHub - https://github.com/napnam/MadUsers2016](https://github.com/napnam/MadUsers2016)
-* [Slack - https://madusers.slack.com](https://madusers.slack.com)
-
-
-The slidedeck and all materials used in this workshop are available for you to download. 
-Just go to:
-
-_[http://www.napnam.nl/madusers2016](http://www.napnam.nl/madusers2016)_
-
----
-
 # [fit] __Tak!__
 # [fit] Thank you!
 # [fit] Dank jullie wel!
@@ -207,11 +252,9 @@ __Patrick Andriessen__
 @napnamPat
 patrick@napnam.nl
 
-www.napnam.nl/madusers2016
+
+*The slides and all materials used in this workshop are available for download at:*
+
+[http://www.napnam.nl/madusers2016](http://www.napnam.nl/madusers2016)
 
 ![right](_assets/MadUsers_txt.png)
-
-
-
-
-
