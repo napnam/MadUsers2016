@@ -3,7 +3,7 @@ autoscale: true
 build-lists: true
 
 ## [fit] MadUsers 2016
-## [fit] Venture outside of the *CSS* comfort zone
+## [fit] 	
 
 __Patrick Andriessen__
 *napnam Publishing & Consulting*	

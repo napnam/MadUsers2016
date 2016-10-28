@@ -1,5 +1,5 @@
 
-Exercise 1 - Find and change the style of a cross-reference.
+Exercise 1 - The cross-reference
 ===
 
 Author:   Patrick Andriessen 
