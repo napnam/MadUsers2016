@@ -525,14 +525,31 @@ div.MCBreadcrumbsBox_0
 	text-decoration: none;
 }
 
+.dropDown
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+}
+
 .dropDownHotspot
 {
+	color: #404040;
+	font-size: 0.9em;
+	font-weight: bold;
 	text-decoration: none;
 }
 
 .dropDownHotspot:link
 {
+	color: #404040;
+	font-size: 0.9em;
+	font-weight: bold;
 	text-decoration: none;
+}
+
+.dropDownHotspot:hover
+{
+	color: #5C258D;
 }
 
 .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
@@ -554,6 +571,18 @@ div.MCBreadcrumbsBox_0
 .dropDownHead
 {
 	text-decoration: none;
+}
+
+.dropDownBody
+{
+	color: #ffffff;
+	width: 97%;
+	background: #5C258D;
+	-webkit-box-shadow: 0px 1px 3px #666666;
+	-moz-box-shadow: 0px 1px 3px #666666;
+	box-shadow: 0px 1px 3px #666666;
+	margin-top: 5px;
+	padding: 10px 20px 10px 20px;
 }
 
 .MCWebHelpFramesetLink a
