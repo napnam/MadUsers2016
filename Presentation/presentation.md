@@ -8,10 +8,13 @@ build-lists: true
 __Patrick Andriessen__
 *napnam Publishing & Consulting*	
 
-@napnamPat
 patrick@napnam.nl
+www.napnam.nl
 
-www.napnam.nl/madusers2016
+Join in on __Twitter__:
+
+``` @napnamPat ```
+ ``` #MadUsers16 ```
 
 ![right](_assets/MadUsers_txt.png)
 
@@ -205,7 +208,7 @@ I would like to know, so here is a
 
 ## *question* for you
 
-After this Would you consider using a text editor for your own projects in the future and why (or why not)?
+After today's introduction, would you consider using a text editor for your own projects in the future and why (or why not)?
 
 
 ---
@@ -238,23 +241,27 @@ http://www.madcapsoftware.com/demos/player.aspx?v=d01db2694e8e6
 
 ---
 
-# [fit] __Tak!__
-# [fit] Thank you!
+# [fit] __Tak!__ | Thank you! 
 # [fit] Dank jullie wel!
 
+*All slides and all materials used in this workshop are available for download at:*
+
+[www.napnam.nl/madusers2016](http://www.napnam.nl/madusers2016)
+
 ---
+
 # [fit] MadUsers 2016
 ## [fit] Venture outside of the *CSS* comfort zone
 
 __Patrick Andriessen__
 *napnam Publishing & Consulting*	
 
-@napnamPat
 patrick@napnam.nl
+www.napnam.nl
 
+Join in on __Twitter__:
 
-*The slides and all materials used in this workshop are available for download at:*
-
-[http://www.napnam.nl/madusers2016](http://www.napnam.nl/madusers2016)
+``` @napnamPat ```
+ ``` #MadUsers16 ```
 
 ![right](_assets/MadUsers_txt.png)
