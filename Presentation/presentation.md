@@ -2,8 +2,8 @@ slidenumbers: false
 autoscale: true
 build-lists: true
 
-## [fit] MadUsers 2016
-## [fit] 	
+# [fit] MadUsers 2016
+## [fit] Venture outside of the *CSS* comfort zone
 
 __Patrick Andriessen__
 *napnam Publishing & Consulting*	
@@ -20,39 +20,30 @@ Join in on __Twitter__:
 
 ---
 
-# [fit] __Welcome__
-
----
-
 # What are we going to do today?
-* We'll be styling various elements in a MadCap Flare project. 
-* We'll be using a text editor instead of Flare.
-* This means that we'll be working on the code directly.
 
----
-
-# What's in it for you?
-
-1. With practice it is *lightning fast*.
-2. You *learn* a lot about CSS.
-3. You'll have *full control* over the CSS, so 
-4. you can do more __fancy stuff__.
+* We are going to work on styles.
+* We are going to use a text editor instead of Flare.
+* So, we will be working on the CSS directly.
 
 ---
 
 # Workshop agenda
 
-1. MadCap Flare vs. Text Editor
+1. What's in it for you?
 2. Exercise: __The Cross Reference__
 3. Exercise: __The Drop Down__
-4. Exercise / demo: __Tables__
-3. Wrap up
+4. Wrap up
 
 ---
 
-## [fit] MadCap Flare
-vs. 
-## [fit] Text Editor
+# What's in it for you?
+__Why should you consider using a text editor?__
+
+1. With practice it is *lightning fast*.
+2. You *learn* a lot about CSS.
+3. You have *full control* over your CSS, so... 
+4. you can do more __fancy stuff__.
 
 ---
 
@@ -61,37 +52,45 @@ vs.
 
 ---
 
-Do you use the Flare Editor "Simple View?
+The Flare Editor "Simple View
 
 ![inline fill 75%](_assets/EditorFlareSimple.png)
 
+How many of you are using the Simple View of Flare's styles editor?
+
 ---
 
-Do you use the Flare Editor "Advanced View?
+The Flare Editor "Advanced View
 
 ![inline fill 75%](_assets/EditorFlareAdvanced.png)
 
----
-
-Do you use the Flare Internal Text Editor?
-
-![inline fill 75%](_assets/EditorFlareText.png)
+How many of you are using the Advanced View of Flare's styles editor?
 
 ---
 
-Or...do you use an external text editor?
+The Flare Internal Text Editor
+
+![inline fill 70%](_assets/EditorFlareText.png)
+
+How many of you are using Flare's internal text editor?
+
+---
+
+Or...do you already use an external text editor?
 
 ![inline fill 75%](_assets/EditorSublime.png)
 
 ---
 
-## The X-Ref (default styling in style editor)
+## The cross-reference
 
 ![inline fill 75%](_assets/MainStyles_LinkStyles.png)
 
+How it looks when using Flare's style editor (simple view).
+
 ---
 
-## The X-Ref (default styling in css file)
+## The cross-reference
 
 ![right 100%](_assets/BasicXref.png)
 
@@ -108,6 +107,7 @@ MadCap|xref
 
 ```
 
+How the actual CSS code and the result looks.
 
 ---
 
@@ -117,7 +117,7 @@ MadCap|xref
 
 ---
 
-## The X-Ref (button styling)
+## The cross-reference
 ```
 MadCap|xref
 ```
@@ -143,9 +143,8 @@ background: #cd171a;
   text-decoration: none;
 }
 ```
+
 ---
-
-
 
 # Time for some
 # [fit] Exercises
@@ -183,7 +182,9 @@ background: #cd171a;
 
 ---
 
-# [fit] About tables
+## [fit] Do we have time left__?__
+
+# [fit] *Y* / *N*
 
 ---
 
