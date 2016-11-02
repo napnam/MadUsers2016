@@ -182,12 +182,6 @@ background: #cd171a;
 
 ---
 
-## [fit] Do we have time left__?__
-
-# [fit] *Y* / *N*
-
----
-
 # Wrap up
 
 ---
